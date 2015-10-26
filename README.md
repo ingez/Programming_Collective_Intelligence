@@ -1,0 +1,3 @@
+# Programming_Collective_Intelligence
+Simple Coding for the Python Learing, from the PCI
+CopyRight from the OReilly...
